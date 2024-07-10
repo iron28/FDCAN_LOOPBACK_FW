@@ -1,0 +1,5 @@
+../Core/Src/main.c:72:6:FDCAN1_Tx	56	static,ignoring_inline_asm
+../Core/Src/main.c:100:6:FDCAN1_Rx	112	static,ignoring_inline_asm
+../Core/Src/main.c:195:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:122:5:main	40	static,ignoring_inline_asm
+../Core/Src/main.c:413:6:Error_Handler	0	static,ignoring_inline_asm
