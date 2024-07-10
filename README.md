@@ -1,5 +1,3 @@
-FDCAN_LOOPBACK_FW
-
 MCU: stm32G431
 
 FDCAN 루프백모드 테스트 // loopback mode testing !!
